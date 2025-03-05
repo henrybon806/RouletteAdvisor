@@ -1,0 +1,1 @@
+{"bankroll": 200, "history": [{"bet": 300, "result": "l", "new_bankroll": -200}, {"bet": 100, "result": "w", "new_bankroll": 200}]}
